@@ -6,7 +6,7 @@
 
 The Arduino Email Alert System is a project designed to detect motion using a Passive Infrared (PIR) sensor connected to an ESP32 development board. When motion is detected, the system sends an email alert to a specified recipient using Simple Mail Transfer Protocol (SMTP). Additionally, a buzzer is used to provide audible indication of motion detection.
 
-![Arduino Email Alert System]([diagram-img.png](https://github.com/Ultimecia1463/ESP-email-alert-Security-System/blob/main/diagram%20img.png))
+![Arduino Email Alert System](diagram img.png)
 
 
 ## **Features**
